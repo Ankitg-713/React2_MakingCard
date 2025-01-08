@@ -40,7 +40,7 @@ function Card() {
           </div>
           <div className="w-full px-3 py-4">
             <h2 className="font-semibold">{elem.name}</h2>
-            <p className="text-xs mt-5  ">{elem.description}</p>
+            <p className="text-xs mt-4">{elem.description}</p>
             
           </div>
         </div>
